@@ -26,8 +26,12 @@ hello world
 
 The Fine Print
 
-Please use whatever technology and techniques you feel are applicable to solve the problem. We suggest that you approach this exercise as if this code was part of a larger system. The end result should be representative of your abilities and style.
 
 Please fork this repository. When you have completed your solution, please issue a pull request to notify us that you are ready.
+A description of Morse Code can be found here: https://en.wikipedia.org/wiki/Morse_code
 
-Have fun.
+Please write the application using visual studio, and in the c# language. 
+The visual studio community version can be downloaded from here:
+https://www.visualstudio.com/vs/community/
+thanks and have fun. 
+
