@@ -1,0 +1,6 @@
+C:\Users\PIYUSH\Desktop\morse\morse\bin\Debug\morse.exe.config
+C:\Users\PIYUSH\Desktop\morse\morse\bin\Debug\morse.exe
+C:\Users\PIYUSH\Desktop\morse\morse\bin\Debug\morse.pdb
+C:\Users\PIYUSH\Desktop\morse\morse\obj\Debug\morse.csprojResolveAssemblyReference.cache
+C:\Users\PIYUSH\Desktop\morse\morse\obj\Debug\morse.exe
+C:\Users\PIYUSH\Desktop\morse\morse\obj\Debug\morse.pdb
